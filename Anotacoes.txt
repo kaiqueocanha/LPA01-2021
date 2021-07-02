@@ -1,0 +1,34 @@
+Lógica de Programação e Algoritmos com Kotlin
+
+LPA#01 - Criação do Projeto e Trabalhando com Terminal
+
+Kotlin é uma linguagem JVM (Java Virtual Machine) Based
+
+	Isso significa que quando você compila o seu código Kotlin, ele vira bytecode de um software Java.
+
+- Sumário
+
+	1 - Criar nosso projeto no IntelliJ (IDE para programação Kotlin)
+
+	2 - Estrutura de arquivos do projeto inicial
+
+	3 - Comandos de Entrada e Saída
+
+		 - Comandos de Saída permite que o software MOSTRE informações ao usuário.
+
+		 - Comandos de Entrade permitem que o software RECEBA informações do usuário.
+
+	4 - Tabela ASCII
+
+		O ASCII é um código numérico padrão, utilizado para representar os caracteres, entendido por quase todos os computadores;
+
+		O ASCII utiliza uma escala decimal que vai do número 0 - 127, e pode ser apresentado no formato de tabela;
+
+	5 - Casting (Converter valores para tipos diferentes)
+
+	Resolvendo Exercício:
+
+	1) Codifique um programa em C que solicite ao usuário um valor inteiro. Após
+	o recebimento calcule e apresente seu quadrado e o cubo deste valor.
+
+	2) Recebe um input de array - Waldyr Cavalcanti
